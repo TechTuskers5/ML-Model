@@ -1,0 +1,18 @@
+Here's a Physical Activity Scale (0 to 10) tailored for an Indian lifestyle, taking into account common daily activities:
+
+Indian Physical Activity Scale (IPAS: 0-10)
+Score	Physical Activity Level	Typical Daily Routine (Indian Context)
+0	Completely Sedentary	----->   Bedridden, no physical movement due to illness or disability.
+1	Minimal Activity	----->   Wakes up, sits/works on a bed/sofa all day, no household chores, no walking, no exercise.
+2	Very Low Activity	----->   Mostly sitting, office/TV/mobile use; walks less than 1,000 steps/day, no structured exercise.
+3	Low Activity		----->	Basic household chores (light cooking, tea-making), short-distance walking (~1,500-2,000 steps/day).
+4	Moderate-Light Activity	----->	Walks occasionally (to nearby shops/market), minimal household work, climbs 1-2 flights of stairs. (~2,500-3,000 steps/day).
+5	Moderate Activity	----->  Active household work (sweeping, mopping, cooking), short outdoor walks, 10-15 min of exercise or yoga, (~4,000-5,000 steps/day).
+6	Moderate-High Activity	----->  Engages in daily walks (30 mins) or cycling, regular household work, standing/moving for work, (~6,000-7,000 steps/day).
+7	High Activity	        ----->  Walks 8,000+ steps/day, regular workout/yoga (30+ min/day), active commute (walking/cycling/public transport).
+8	Very High Activity	----->  Intense daily workouts (gym, running, HIIT), active job (delivery person, farmer, construction worker), walks 10,000+ steps/day.
+9	Athlete Level	        ----->  Rigorous sports training (Cricket, Football, Marathon), physically demanding job, walks 15,000+ steps/day.
+10	Elite Athlete/Fitness Enthusiast ----->	Extreme endurance training (professional sports, military, trekking), 2+ hours of structured physical activity daily.
+
+
+This scale reflects Indian lifestyle habits, from a sedentary IT professional to a farmer or an athlete. Let me know if you need modifications! 🚶‍♂️🏋️‍♀️
